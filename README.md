@@ -1,6 +1,16 @@
 - 👋 Hi, I’m Chuan Seng Ng
-- 👀 I’m interested in tinkering in both electronics and hardware, and exploring the fields of Python, TS, JS and HDL
-- 🌱 I’m currently learning KiCAD and more in-depth sectors of Python & TS/JS
+- 👀 I’m interested in tinkering in both electronics and hardware
+- Interests:
+    - Python
+    - TS/JS
+    - HDL (SystemVerilog)
+    
+- 🌱 I’m currently learning more about SystemVerilog & UVM while working on personal Python projects
+- Ongoing Projects:
+    - Various HDL projects (FIFO Memory/Traffic Light Controller/7-Segment Digital Timer)
+    - Automated show episode transfer + episode count parser via API
+    - Personal web-based finance tracker
+      
 - 📫 How to reach me: 
   - Linkedin: https://www.linkedin.com/in/chuan-seng-n-559608a4/
   - Email: cng043@e.ntu.edu.sg
