@@ -4,11 +4,11 @@
     - Python
     - TS/JS
     - HDL (SystemVerilog)
+    - Digital Design & Verification (Directed/Assertion/UVM)
     
 - 🌱 I’m currently learning more about SystemVerilog & UVM while working on personal Python projects
 - Ongoing Projects:
     - Various HDL projects (FIFO Memory/Traffic Light Controller/7-Segment Digital Timer)
-    - Automated show episode transfer + episode count parser via API
     - Personal web-based finance tracker
       
 - 📫 How to reach me: 
