@@ -1,5 +1,16 @@
 # 💫 About Me:
-- 👀 I’m interested in tinkering in both electronics and hardware<br>- Interests:<br>    - Python<br>    - TS/JS<br>    - HDL (SystemVerilog)<br>    - Digital Design & Verification (Directed/Assertion/UVM)<br>    <br>- 🌱 I’m currently learning more about SystemVerilog & UVM while working on personal Python projects<br>- Ongoing Projects:<br>    - Various HDL projects (FIFO Memory/Traffic Light Controller/7-Segment Digital Timer)<br>    - Personal web-based finance tracker<br>    - Bouldering route grade classifier
+- 👀 I’m interested in tinkering in both electronics and hardware<br>
+- Interests:<br>
+  - Python<br>
+  - TS/JS<br>
+  - HDL (SystemVerilog)<br>
+  - Digital Design & Verification (Directed/Assertion/UVM)<br>
+<br><br>
+- 🌱 I’m currently learning more about SystemVerilog & UVM while working on personal Python projects<br>
+- Ongoing Projects:<br>
+  - Various HDL projects (FIFO Memory/Traffic Light Controller/7-Segment Digital Timer)<br>
+  - Personal web-based finance tracker<br>
+  - Bouldering route grade classifier
 
 
 ## 🌐 Socials:
