@@ -1,22 +1,18 @@
-- 👋 Hi, I’m Chuan Seng Ng
-- 👀 I’m interested in tinkering in both electronics and hardware
-- Interests:
-    - Python
-    - TS/JS
-    - HDL (SystemVerilog)
-    - Digital Design & Verification (Directed/Assertion/UVM)
-    
-- 🌱 I’m currently learning more about SystemVerilog & UVM while working on personal Python projects
-- Ongoing Projects:
-    - Various HDL projects (FIFO Memory/Traffic Light Controller/7-Segment Digital Timer)
-    - Personal web-based finance tracker
-      
-- 📫 How to reach me: 
-  - Linkedin: https://www.linkedin.com/in/chuan-seng-n-559608a4/
-  - Email: cng043@e.ntu.edu.sg
+# 💫 About Me:
+- 👀 I’m interested in tinkering in both electronics and hardware<br>- Interests:<br>    - Python<br>    - TS/JS<br>    - HDL (SystemVerilog)<br>    - Digital Design & Verification (Directed/Assertion/UVM)<br>    <br>- 🌱 I’m currently learning more about SystemVerilog & UVM while working on personal Python projects<br>- Ongoing Projects:<br>    - Various HDL projects (FIFO Memory/Traffic Light Controller/7-Segment Digital Timer)<br>    - Personal web-based finance tracker<br>    - Bouldering route grade classifier
 
-<!---
-chuanseng-ng/chuanseng-ng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 💞️ I’m looking to collaborate on ...
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/csng95) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cng043@e.ntu.edu.sg) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-blue?logo=verilog) ![System Verilog](https://img.shields.io/badge/System_Verilog-blue?logo=systemverilog)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=chuanseng-ng&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=chuanseng-ng&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chuanseng-ng&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=chuanseng-ng&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
