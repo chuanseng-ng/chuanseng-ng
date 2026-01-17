@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👀 I’m interested in tinkering in both electronics and hardware<br>
+- 👀 I’m interested in tinkering in hardware and getting down dirty in software<br>
 - Interests:<br>
   - Python<br>
   - TS/JS<br>
