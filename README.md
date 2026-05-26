@@ -9,9 +9,7 @@
 - 🌱 I’m currently learning more about SystemVerilog & UVM/cocotb while working on personal Python projects<br>
 - Ongoing Projects:<br>
   - Claude AI assisted CPU + GPU-lite SoC design<br>
-  - Bouldering route grade classifier<br>
-  - Portfolio weightage evaluation<br>
-  - Personal web-based finance tracker
+  - HW digital design AI agent suite
 
 
 ## 🌐 Socials:
